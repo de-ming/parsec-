@@ -1,0 +1,22 @@
+
+
+默认：
+app_channel = release12
+app_flags = 1
+app_run_level = 1
+app_changelog_ver = 6
+client_windowed = 1
+
+
+
+
+
+app_channel = release12
+app_proxy_address = 127.0.0.1
+app_proxy_scheme = http
+app_proxy = true
+app_proxy_port = 19180
+app_run_level = 1
+app_changelog_ver = 6
+client_vsync = 0
+encoder_bitrate = 50
